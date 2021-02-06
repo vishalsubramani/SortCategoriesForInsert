@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Men",
+    "id": 20,
+    "parent_id": null
+  },
+  {
+    "name": "Accessories",
+    "id": 1,
+    "parent_id": 20
+  },
+  {
+    "name": "Watches",
+    "id": 57,
+    "parent_id": 1
+  },
+  {
+    "name": "Smartwatches",
+    "id": 203,
+    "parent_id": 57
+  },
+  {
+    "name": "Tag Heuer Connected",
+    "id": 303,
+    "parent_id": 203
+  },
+  {
+    "name": "Luxary",
+    "id": 201,
+    "parent_id": 57
+  },
+  {
+    "name": "Cartier",
+    "id": 301,
+    "parent_id": 201
+  },
+  {
+    "name": "Sports",
+    "id": 202,
+    "parent_id": 57
+  },
+  {
+    "name": "Tag Heuer Formula 1",
+    "id": 302,
+    "parent_id": 202
+  },
+  {
+    "name": "Rings",
+    "id": 58,
+    "parent_id": 1
+  },
+  {
+    "name": "Sunglasses",
+    "id": 59,
+    "parent_id": 1
+  },
+  {
+    "name": "Oakley",
+    "id": 101,
+    "parent_id": 59
+  },
+  {
+    "name": "Rayban",
+    "id": 102,
+    "parent_id": 59
+  },
+  {
+    "name": "Women",
+    "id": 21,
+    "parent_id": null
+  },
+  {
+    "name": "Shirts and Blouses",
+    "id": 601,
+    "parent_id": 21
+  },
+  {
+    "name": "Lenin Shirts",
+    "id": 701,
+    "parent_id": 601
+  }
+]
