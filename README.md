@@ -12,3 +12,9 @@ Technical Approach:
 
 Solution File:
 https://github.com/vishalsubramani/SortCategoriesForInsert/blob/main/SortCategoriesForInsert.js
+
+Testcase to cover edge cases: 
+https://github.com/vishalsubramani/SortCategoriesForInsert/blob/main/SampleTestCase
+
+Testcase answer after using the above data test case: 
+https://github.com/vishalsubramani/SortCategoriesForInsert/blob/main/SampleTestCaseSolution
